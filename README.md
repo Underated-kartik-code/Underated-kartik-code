@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kartik Pitambar Alokar</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<p align="left"></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=underated-kartik-code" alt="underated-kartik-code" /></a> </p>
-
 - 🔭 I’m currently working on **Fronted**
 
 - 🌱 I’m currently learning **React.js and Backend**
